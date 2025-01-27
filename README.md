@@ -1,12 +1,12 @@
 ## <img src='https://media1.giphy.com/media/1QcqLUCuQca1edQ0rK/giphy.gif?cid=6c09b952y1230kxui2dujr57zfa3to5qzdtl7lbsd6uplbwz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' width='40px' />  <img src='https://w7.pngwing.com/pngs/958/363/png-transparent-roblox-corporation-logo-adobe-text-video-game-xbox-one.png' width='145px' /> 
 
-![Roblox Avatar](https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3FD2EC04DF871E41E570F86F55CE7FA2-Png/150/150/AvatarHeadshot/Webp/noFilter)  
+![Roblox Avatar](https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3FD2EC04DF871E41E570F86F55CE7FA2-Png/150/150/AvatarHeadshot/Webp/noFilter)  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xixigolang&theme=dark&layout=compact)
 
 Max
 
 @3xazm
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xixigolang&theme=dark&layout=compact)
+
 
 <!--
 **Xixigolang/xixigolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
