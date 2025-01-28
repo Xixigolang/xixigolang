@@ -12,12 +12,9 @@ Max
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="C#" width="30px" style="padding-right:10px;" src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" />
-<img align="left" alt="C" width="30px" style="padding-right:10px;" src="https://icons8.com/icon/40670/c-programming" />
-<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/426/535/png-transparent-unity-new-logo-tech-companies-thumbnail.png" />
-<img align="left" alt="ARDUINO" width="30px" style="padding-right:10px;" src="https://w7.pngwing.com/pngs/676/338/png-transparent-arduino-computer-software-library-electronics-computer-electronics-baby-computer-thumbnail.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
+<img align="left" alt="Visual Studio 2022" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" />
 
 <!---->
 
