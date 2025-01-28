@@ -8,6 +8,9 @@ Max ‎
 [@3xazm](https://www.roblox.com/users/1231779831/profile)
 #
 
+🖥️Front End, ✅
+
+🌐Back End, ❌
 
 ### 🧰 Languages and Tools
 
