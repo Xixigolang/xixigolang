@@ -8,7 +8,7 @@ Max ‎
 [@3xazm](https://www.roblox.com/users/1231779831/profile)
 #
 
-Hi, i am xixi, 
+Hi, i am xixi
 
 🖥️Front End, ✅
 
