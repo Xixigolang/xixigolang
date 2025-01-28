@@ -18,7 +18,7 @@ Max ‎
 <img align="left" alt="Visual Studio 2022" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" />
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Unity" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/200px-Unity_2021.svg.png" />
+<img align="left" alt="Unity" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/200px-Unity_2021.svg.png" />
 <!---->
 
 
