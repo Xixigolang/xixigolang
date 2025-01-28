@@ -3,7 +3,7 @@
 ![Roblox Avatar](https://tr.rbxcdn.com/30DAY-AvatarHeadshot-3FD2EC04DF871E41E570F86F55CE7FA2-Png/150/150/AvatarHeadshot/Webp/noFilter) ㅤㅤ<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixigolang&theme=dark&layout=compact" width="300" />
    <img src="https://github-readme-stats.vercel.app/api?username=xixigolang&show_icons=true&theme=tokyonight" width="360" />
    
-<span style="font-size: 24px;">Max</span>
+<span style="font-size: 100px;">Max</span>
 
 
 [@3xazm](https://www.roblox.com/users/1231779831/profile)
