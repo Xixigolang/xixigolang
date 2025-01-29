@@ -10,7 +10,7 @@
 
 Hi. I am xixi, a front-end dev 
 
-I will work hard to become a backend dev☺️
+I want to do the backend dev🙃
 
 🖥️Front End, ✅
 
