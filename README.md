@@ -27,6 +27,8 @@ Hi. I am xixi, a front-end dev
 <img align="left" alt="Visual Studio Code" width="32px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" />
 <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
+<img align="left" alt="VuePress Theme Hope" width="50px" style="padding-right:10px;" src="https://vuepress-theme-hope.github.io/logo.svg" />
+
 
 <!---->
 
