@@ -30,8 +30,8 @@ Hi. I am xixi, a front-end dev
 <img align="left" alt="VuePress Theme Hope" width="50px" style="padding-right:10px;" src="https://vuepress-theme-hope.github.io/logo.svg" />
 
 
-<!---->
-##  Most used language
+
+Most used language
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
