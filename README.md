@@ -37,6 +37,7 @@ Hi. I am xixi, a front-end dev
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 <!--
 **Xixigolang/xixigolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
