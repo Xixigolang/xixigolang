@@ -7,14 +7,13 @@
 
 [@3xazm](https://www.roblox.com/users/1231779831/profile)
 #
-
+<!--
 Hi. I am xixi, a front-end dev 
 
-
 🖥️Front End, ✅
-<!--
+
 🌐Back End, ❌
--->
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Unity" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/200px-Unity_2021.svg.png" />
@@ -29,7 +28,7 @@ Hi. I am xixi, a front-end dev
 <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
 <img align="left" alt="VuePress Theme Hope" width="50px" style="padding-right:10px;" src="https://vuepress-theme-hope.github.io/logo.svg" />
-
+-->
 
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
