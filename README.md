@@ -5,7 +5,7 @@
    
 **Max**
 
-[@3xazm](https://www.roblox.com/users/1231779831/profile)
+[@3xazm](https://tr.rbxcdn.com/30DAY-AvatarHeadshot-20D6AEAE301A88B95050BE17297070A0-Png/150/150/AvatarHeadshot/Webp/noFilter)
 <!--
 #
 
