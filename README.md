@@ -1,3 +1,4 @@
+<!--
 ## <img src='https://media1.giphy.com/media/1QcqLUCuQca1edQ0rK/giphy.gif?cid=6c09b952y1230kxui2dujr57zfa3to5qzdtl7lbsd6uplbwz&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=s' width='40px'/>  <img src='https://w7.pngwing.com/pngs/958/363/png-transparent-roblox-corporation-logo-adobe-text-video-game-xbox-one.png' width='145px' /> 
 
 ![Roblox Avatar](https://tr.rbxcdn.com/30DAY-AvatarHeadshot-20D6AEAE301A88B95050BE17297070A0-Png/150/150/AvatarHeadshot/Webp/noFilter) ㅤ<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xixigolang&theme=dark&layout=compact" width="300" />
@@ -6,7 +7,7 @@
 **Max**
 
 [@3xazm]()
-<!--
+
 #
 
 Hi. I am xixi, a front-end dev 
@@ -29,7 +30,7 @@ Hi. I am xixi, a front-end dev
 <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
 <img align="left" alt="VuePress Theme Hope" width="50px" style="padding-right:10px;" src="https://vuepress-theme-hope.github.io/logo.svg" />
--->
+
 
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
@@ -37,8 +38,9 @@ Hi. I am xixi, a front-end dev
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+-->
 
-<!--
+
 **Xixigolang/xixigolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -51,4 +53,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
