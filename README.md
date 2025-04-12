@@ -42,7 +42,7 @@ Hi. I am xixi, a front-end dev
 
 
 
-<!--
+
 **Xixigolang/xixigolang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -55,14 +55,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 
+<!--
 **x整天搞个屎山也不知道我是怎么把项目写出来的东西然后第二天就忘了这是什么了** 我也不知道是怎么写出来的css 最后自己也看不懂了 硬生生把`style.css`搞成动一下这行样式就不显示要么尺寸不对.
 
 
 觉得躺平睡觉吃吃饭看短剧就行了然后玩个小游戏放松放松，那就玩vrchat聊天更好👍
-
+-->
 
 
 
