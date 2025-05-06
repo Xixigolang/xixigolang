@@ -15,11 +15,12 @@ Hi. I am xixi, a front-end dev
 🖥️Front End, ✅
 
 🌐Back End, ❌
-
+-->
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Unity" width="90px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Unity_2021.svg/200px-Unity_2021.svg.png" />
 <img align="left" alt="C#" width="38px" style="padding-right:10px;" src="https://static.cdnlogo.com/logos/c/68/c-sharp-350x350.png" />
+<!--
 <img align="left" alt="C++" width="35px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="JavaScript" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="HTML" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -30,7 +31,7 @@ Hi. I am xixi, a front-end dev
 <img align="left" alt="GitHub" width="32px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Arduino" width="50px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Arduino_Logo.svg/720px-Arduino_Logo.svg.png" />
 <img align="left" alt="VuePress Theme Hope" width="50px" style="padding-right:10px;" src="https://vuepress-theme-hope.github.io/logo.svg" />
-
+-->
 
 ## ㅤㅤㅤㅤㅤㅤㅤㅤㅤ
 
@@ -38,7 +39,7 @@ Hi. I am xixi, a front-end dev
 
 ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
--->
+
 
 
 
