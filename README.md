@@ -37,8 +37,9 @@ Hi. I am xixi, a front-end dev
 
 ***🎆 Most used language and tool🎇***
 
-![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=unity)
+![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+
 
 
 
